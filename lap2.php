@@ -1,4 +1,5 @@
 <?php
  $k="coba";
- echo $k;
+$l="laporan";
+ echo $k+$l;
  ?>
